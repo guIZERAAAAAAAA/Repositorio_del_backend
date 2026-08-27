@@ -1,13 +1,13 @@
 {
   "name": "repositorio_del_backend",
   "version": "1.0.0",
-  "description": "coisas pra prova",
+  "description": "coisas",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "node" :"node --watch index.js"
+    "dev" :"node --watch index.js"
   },
-  "author": "guilherme",
+  "author": "Guilherme ",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
